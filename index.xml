@@ -270,8 +270,7 @@ Three
       <link>mohammeddaoudi.github.io/post/icpr-2020/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>mohammeddaoudi.github.io/post/icpr-2020/</guid>
-      <description>&lt;h2 id=&#34;overview-a-text-could-be-included&#34;&gt;Overview a text could be included&lt;/h2&gt;
-
+      <description>
 
 
 
@@ -346,7 +345,6 @@ Three
 &lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
