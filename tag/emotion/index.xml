@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>mohammeddaoudi.github.io/project/</link>
-      <atom:link href="mohammeddaoudi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Emotion | Academic</title>
+    <link>mohammeddaoudi.github.io/tag/emotion/</link>
+      <atom:link href="mohammeddaoudi.github.io/tag/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emotion</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/mohammeddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>mohammeddaoudi.github.io/project/</link>
+      <title>Emotion</title>
+      <link>mohammeddaoudi.github.io/tag/emotion/</link>
     </image>
     
     <item>
@@ -19,25 +19,6 @@
       <guid>mohammeddaoudi.github.io/project/disyknow/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;The French National Research Agency (ANR)&lt;/li&gt;
-&lt;li&gt;Human4D: Acquisition, Analysis and Synthesis of Human Body Shape in Motion (2019-2023) is a French national project funded by ANR (Agence National de la Recherche). It has been selected as a collaborative project (programme PRC: Projet de recherche collaborative) by AI scientific committee (CES 23 - Intelligence artificielle). The consortium is composed of 4 nationwide partners : CRIStAL, ICube, INRIA (Grenoble Rhône-Alpes), and LIRIS.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Human4D is concerned with the problem of 4D human shape modeling. Reconstructing, characterizing, and understanding the shape and motion of individuals or groups of people have many important applications, such as ergonomic design of products, rapid reconstruction of realistic human models for virtual worlds, and an early detection of abnormality in predictive clinical analysis. Naturally, the capture and analysis of people’s shape and motion have a long tradition in disciplines such as computer vision, computer graphics, and virtual reality. This is evidenced by the large amount of research done on shape reconstruction from images and 3D scans, on subspace construction with multiple shapes, on motion capture and action recognition from video inputs. However, most current techniques treat shape and motion independently, with devoted techniques for either shape or motion in isolation. This is largely due to the difficulty of acquiring proper observations on full moving shapes: Traditional systems have been devoted to capture either static shapes, e.g. 3D scanners, or motion only, e.g. motion capture.&lt;/p&gt;
-&lt;p&gt;Recent evolutions in the technology for capturing moving shapes have changed this paradigm with new multi-view acquisition systems that enable now full 4D models of human shapes including geometry, motion and appearance, as in commercial platforms deployed by Intel Studio or Microsoft Hololense, among others. Such data open new possibilities and challenges for the analysis and the synthesis of human shapes in motion that are yet largely unexplored but would be of benefit to a wide range of applications in virtual and augmented reality, or in the sport and medical domains. This is especially true with the rapidly growing VR/AR immersive applications based on head mounted displays, which require realistic and detailed models to improve the immersive experience. Magic leap, Microsoft Hololense, Facebook Oculus Rift, Sony PS4 HMD and the HTC Vive, among others, are clear examples of this recent and rapid evolution and the associated need to produce adapted realistic contents. In the future we will be able to make digital copies of moving persons using a handy imaging device, send them over the network, and make customized compositions of the retrieved 4D human data in our daily life. Human4D aims at contributing to this evolution with objectives that can profoundly improve the reconstruction, transmission, and reuse of digital human data, by unleashing the power of recent deep learning techniques and extending it to 4D human shape modeling.&lt;/p&gt;
-&lt;p&gt;The expected outcome of Human4D can be summarized as follows:&lt;/p&gt;
-&lt;p&gt;A database of 4D human body shapes from multi-view sequences, composed of diverse individuals of different physical characteristics and exhibiting different actions.
-A full pipeline for the reconstruction and representation of highly precise 4D models of human.
-A compact, scalable, and readily available 4D human atlas based on the above database of 4D human models.
-An extension of Deep Learning techniques to 3D and 4D data.
-Representative applications demonstrating the efficiency of the above 4D human atlas with the recovery, the synthesis and the analysis of 4D human models.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human 4D, French National Research Agency (ANR), AI scientific committee</title>
-      <link>mohammeddaoudi.github.io/project/human4d/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/human4d/</guid>
-      <description>&lt;ul&gt;
 &lt;li&gt;Human4D: Acquisition, Analysis and Synthesis of Human Body Shape in Motion (2019-2023) is a French national project funded by ANR (Agence National de la Recherche). It has been selected as a collaborative project (programme PRC: Projet de recherche collaborative) by AI scientific committee (CES 23 - Intelligence artificielle). The consortium is composed of 4 nationwide partners : CRIStAL, ICube, INRIA (Grenoble Rhône-Alpes), and LIRIS.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Human4D is concerned with the problem of 4D human shape modeling. Reconstructing, characterizing, and understanding the shape and motion of individuals or groups of people have many important applications, such as ergonomic design of products, rapid reconstruction of realistic human models for virtual worlds, and an early detection of abnormality in predictive clinical analysis. Naturally, the capture and analysis of people’s shape and motion have a long tradition in disciplines such as computer vision, computer graphics, and virtual reality. This is evidenced by the large amount of research done on shape reconstruction from images and 3D scans, on subspace construction with multiple shapes, on motion capture and action recognition from video inputs. However, most current techniques treat shape and motion independently, with devoted techniques for either shape or motion in isolation. This is largely due to the difficulty of acquiring proper observations on full moving shapes: Traditional systems have been devoted to capture either static shapes, e.g. 3D scanners, or motion only, e.g. motion capture.&lt;/p&gt;
