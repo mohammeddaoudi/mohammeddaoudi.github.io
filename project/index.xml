@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>mohammeddaoudi.github.io/project/</link>
-      <atom:link href="mohammeddaoudi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>mohamed-daoudi.github.io/project/</link>
+      <atom:link href="mohamed-daoudi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mohammeddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mohamed-daoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>mohammeddaoudi.github.io/project/</link>
+      <link>mohamed-daoudi.github.io/project/</link>
     </image>
     
     <item>
       <title>Empathic Intelligent Avatars</title>
-      <link>mohammeddaoudi.github.io/project/disyknow/</link>
+      <link>mohamed-daoudi.github.io/project/disyknow/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/disyknow/</guid>
+      <guid>mohamed-daoudi.github.io/project/disyknow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human4D, Acquisition, Analysis and Synthesis of Human Body Shape in Motion.</title>
-      <link>mohammeddaoudi.github.io/project/human4d/</link>
+      <link>mohamed-daoudi.github.io/project/human4d/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/human4d/</guid>
+      <guid>mohamed-daoudi.github.io/project/human4d/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Human4D: Acquisition, Analysis and Synthesis of Human Body Shape in Motion (2019-2023) is a French national project funded by ANR (Agence National de la Recherche). It has been selected as a collaborative project (programme PRC: Projet de recherche collaborative) by AI scientific committee (CES 23 - Intelligence artificielle). The consortium is composed of 4 nationwide partners : CRIStAL, ICube, INRIA (Grenoble Rhône-Alpes), and LIRIS.&lt;/li&gt;
 &lt;/ul&gt;

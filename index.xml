@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>mohammeddaoudi.github.io/</link>
-      <atom:link href="mohammeddaoudi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>mohamed-daoudi.github.io/</link>
+      <atom:link href="mohamed-daoudi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mohammeddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mohamed-daoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>mohammeddaoudi.github.io/</link>
+      <link>mohamed-daoudi.github.io/</link>
     </image>
     
     <item>
       <title>Geometric and Deep learning approaches for Dynamic Facial Expression Analysis and Generation</title>
-      <link>mohammeddaoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</link>
+      <link>mohamed-daoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</link>
       <pubDate>Tue, 12 Jan 2021 14:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</guid>
+      <guid>mohamed-daoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,33 +34,33 @@
     
     <item>
       <title>2 papers accepted by ICPR and 1 paper accepted by ICPR workshop &#34;Manifold Learning from Euclid to Riemann&#34;</title>
-      <link>mohammeddaoudi.github.io/post/icpr-2020/</link>
+      <link>mohamed-daoudi.github.io/post/icpr-2020/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/icpr-2020/</guid>
+      <guid>mohamed-daoudi.github.io/post/icpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chair of the ICPR 2021 Workshop &#34;Manifold Learning from Euclid to Riemann&#34; and the WACV 2021 workshop &#34;Generation of Human Behavior&#34;</title>
-      <link>mohammeddaoudi.github.io/post/workshops-2021/</link>
+      <link>mohamed-daoudi.github.io/post/workshops-2021/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/workshops-2021/</guid>
+      <guid>mohamed-daoudi.github.io/post/workshops-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Editor of Special Issue on Learning with Manifolds in Computer Vision, Image and Vision Computing Journal</title>
-      <link>mohammeddaoudi.github.io/post/ivc-si/</link>
+      <link>mohamed-daoudi.github.io/post/ivc-si/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/ivc-si/</guid>
+      <guid>mohamed-daoudi.github.io/post/ivc-si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Facial Expression Generation on Hilbert Hypersphere with Conditional Wasserstein Generative Adversarial Nets</title>
-      <link>mohammeddaoudi.github.io/publication/ieeepami2021/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeepami2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeepami2021/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeepami2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -77,9 +77,9 @@
     
     <item>
       <title>Riemannian Geometry and Machine Learning for Human Behavior Understanding.</title>
-      <link>mohammeddaoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</link>
+      <link>mohamed-daoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</link>
       <pubDate>Thu, 03 Dec 2020 15:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</guid>
+      <guid>mohamed-daoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -97,25 +97,25 @@
     
     <item>
       <title>1 paper accepted by  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</title>
-      <link>mohammeddaoudi.github.io/post/tnnls/</link>
+      <link>mohamed-daoudi.github.io/post/tnnls/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/tnnls/</guid>
+      <guid>mohamed-daoudi.github.io/post/tnnls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 paper accepted by  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</title>
-      <link>mohammeddaoudi.github.io/post/tpami-2021/</link>
+      <link>mohamed-daoudi.github.io/post/tpami-2021/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/tpami-2021/</guid>
+      <guid>mohamed-daoudi.github.io/post/tpami-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Geometric Framework on Gram Matrix Trajectories for Human Behavior Understanding</title>
-      <link>mohammeddaoudi.github.io/publication/ieeepami2020/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeepami2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeepami2020/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeepami2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -132,9 +132,9 @@
     
     <item>
       <title>Automatic Analysis of Facial Expressions Based on Deep Covariance Trajectories</title>
-      <link>mohammeddaoudi.github.io/publication/ieeetnnls2020/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeetnnls2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeetnnls2020/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeetnnls2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -151,17 +151,17 @@
     
     <item>
       <title>Empathic Intelligent Avatars</title>
-      <link>mohammeddaoudi.github.io/project/disyknow/</link>
+      <link>mohamed-daoudi.github.io/project/disyknow/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/disyknow/</guid>
+      <guid>mohamed-daoudi.github.io/project/disyknow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human4D, Acquisition, Analysis and Synthesis of Human Body Shape in Motion.</title>
-      <link>mohammeddaoudi.github.io/project/human4d/</link>
+      <link>mohamed-daoudi.github.io/project/human4d/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/human4d/</guid>
+      <guid>mohamed-daoudi.github.io/project/human4d/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Human4D: Acquisition, Analysis and Synthesis of Human Body Shape in Motion (2019-2023) is a French national project funded by ANR (Agence National de la Recherche). It has been selected as a collaborative project (programme PRC: Projet de recherche collaborative) by AI scientific committee (CES 23 - Intelligence artificielle). The consortium is composed of 4 nationwide partners : CRIStAL, ICube, INRIA (Grenoble Rhône-Alpes), and LIRIS.&lt;/li&gt;
 &lt;/ul&gt;
@@ -178,9 +178,9 @@ Representative applications demonstrating the efficiency of the above 4D human a
     
     <item>
       <title>Slides</title>
-      <link>mohammeddaoudi.github.io/slides/example/</link>
+      <link>mohamed-daoudi.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/slides/example/</guid>
+      <guid>mohamed-daoudi.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -307,9 +307,9 @@ Three
     
     <item>
       <title>Gauge Invariant Framework for Shape Analysis of Surfaces</title>
-      <link>mohammeddaoudi.github.io/publication/ieeepami2016/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeepami2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeepami2016/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeepami2016/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -326,9 +326,9 @@ Three
     
     <item>
       <title>3-D Human Action Recognition by Shape Analysis of Motion Trajectories on Riemannian Manifold}</title>
-      <link>mohammeddaoudi.github.io/publication/ieeeieee-trans.-cybern/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeeieee-trans.-cybern/</link>
       <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeeieee-trans.-cybern/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeeieee-trans.-cybern/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -345,9 +345,9 @@ Three
     
     <item>
       <title>3D Face Recognition under Expressions, Occlusions, and Pose Variations</title>
-      <link>mohammeddaoudi.github.io/publication/ieeepami2013/</link>
+      <link>mohamed-daoudi.github.io/publication/ieeepami2013/</link>
       <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/publication/ieeepami2013/</guid>
+      <guid>mohamed-daoudi.github.io/publication/ieeepami2013/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

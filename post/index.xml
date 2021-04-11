@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>mohammeddaoudi.github.io/post/</link>
-      <atom:link href="mohammeddaoudi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>mohamed-daoudi.github.io/post/</link>
+      <atom:link href="mohamed-daoudi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mohammeddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mohamed-daoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>mohammeddaoudi.github.io/post/</link>
+      <link>mohamed-daoudi.github.io/post/</link>
     </image>
     
     <item>
       <title>2 papers accepted by ICPR and 1 paper accepted by ICPR workshop &#34;Manifold Learning from Euclid to Riemann&#34;</title>
-      <link>mohammeddaoudi.github.io/post/icpr-2020/</link>
+      <link>mohamed-daoudi.github.io/post/icpr-2020/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/icpr-2020/</guid>
+      <guid>mohamed-daoudi.github.io/post/icpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chair of the ICPR 2021 Workshop &#34;Manifold Learning from Euclid to Riemann&#34; and the WACV 2021 workshop &#34;Generation of Human Behavior&#34;</title>
-      <link>mohammeddaoudi.github.io/post/workshops-2021/</link>
+      <link>mohamed-daoudi.github.io/post/workshops-2021/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/workshops-2021/</guid>
+      <guid>mohamed-daoudi.github.io/post/workshops-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest Editor of Special Issue on Learning with Manifolds in Computer Vision, Image and Vision Computing Journal</title>
-      <link>mohammeddaoudi.github.io/post/ivc-si/</link>
+      <link>mohamed-daoudi.github.io/post/ivc-si/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/ivc-si/</guid>
+      <guid>mohamed-daoudi.github.io/post/ivc-si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 paper accepted by  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</title>
-      <link>mohammeddaoudi.github.io/post/tnnls/</link>
+      <link>mohamed-daoudi.github.io/post/tnnls/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/tnnls/</guid>
+      <guid>mohamed-daoudi.github.io/post/tnnls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1 paper accepted by  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</title>
-      <link>mohammeddaoudi.github.io/post/tpami-2021/</link>
+      <link>mohamed-daoudi.github.io/post/tpami-2021/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/post/tpami-2021/</guid>
+      <guid>mohamed-daoudi.github.io/post/tpami-2021/</guid>
       <description></description>
     </item>
     

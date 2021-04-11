@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emotion | Academic</title>
-    <link>mohammeddaoudi.github.io/tag/emotion/</link>
-      <atom:link href="mohammeddaoudi.github.io/tag/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <link>mohamed-daoudi.github.io/tag/emotion/</link>
+      <atom:link href="mohamed-daoudi.github.io/tag/emotion/index.xml" rel="self" type="application/rss+xml" />
     <description>Emotion</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mohammeddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mohamed-daoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Emotion</title>
-      <link>mohammeddaoudi.github.io/tag/emotion/</link>
+      <link>mohamed-daoudi.github.io/tag/emotion/</link>
     </image>
     
     <item>
       <title>Empathic Intelligent Avatars</title>
-      <link>mohammeddaoudi.github.io/project/disyknow/</link>
+      <link>mohamed-daoudi.github.io/project/disyknow/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>mohammeddaoudi.github.io/project/disyknow/</guid>
+      <guid>mohamed-daoudi.github.io/project/disyknow/</guid>
       <description></description>
     </item>
     
