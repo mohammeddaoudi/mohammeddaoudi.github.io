@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Academic</title>
-    <link>mohamed-daoudi.github.io/event/</link>
-      <atom:link href="mohamed-daoudi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>mohameddaoudi.github.io/event/</link>
+      <atom:link href="mohameddaoudi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mohamed-daoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mohameddaoudi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>mohamed-daoudi.github.io/event/</link>
+      <link>mohameddaoudi.github.io/event/</link>
     </image>
     
     <item>
       <title>Geometric and Deep learning approaches for Dynamic Facial Expression Analysis and Generation</title>
-      <link>mohamed-daoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</link>
+      <link>mohameddaoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</link>
       <pubDate>Tue, 12 Jan 2021 14:00:00 +0000</pubDate>
-      <guid>mohamed-daoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</guid>
+      <guid>mohameddaoudi.github.io/talk/geometric-and-deep-learning-approaches-for-dynamic-facial-expression-analysis-and-generation/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Riemannian Geometry and Machine Learning for Human Behavior Understanding.</title>
-      <link>mohamed-daoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</link>
+      <link>mohameddaoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</link>
       <pubDate>Thu, 03 Dec 2020 15:00:00 +0000</pubDate>
-      <guid>mohamed-daoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</guid>
+      <guid>mohameddaoudi.github.io/talk/riemannian-geometry-and-machine-learning-for-human-behavior-understanding./</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
